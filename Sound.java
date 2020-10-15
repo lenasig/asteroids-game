@@ -5,11 +5,7 @@ import javax.sound.sampled.AudioInputStream;
 import javax.sound.sampled.AudioSystem;
 import java.io.*;
 
-/** Class that puts sound in the game
- * 
- * @author Aarushi
- *  
- **/
+/** Class that puts sound in the game */
 
 public class Sound {
     /* Static variable to check if the game is still on */
@@ -24,8 +20,6 @@ public class Sound {
      * Receives a file as sound input
      * 
      * @param fileName : the name of the file that contains the sound clip
-     * 
-     * 
      */
     private static void playSound(String fileName) {
         try {
