@@ -1,0 +1,2 @@
+# asteroids-game
+This game is a remake of the 1979 Asteroids game by Atari, inc. It was completed as a final project for my Software Design and Development course. The game was designed such that there are always 4 asteroids on screen, but they move faster as the game continues. Each asteroid is worth 100 points to shoot. At every 1000 points, the game levels up and a "boss" is deployed, a saucer that shoots at the ship. The saucer is worth 200 points to shoot. Like the original game, the user can never win! 
